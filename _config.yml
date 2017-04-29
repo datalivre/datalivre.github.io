@@ -16,7 +16,7 @@ baseurl: ""
 # Name of website
 title: Data Livre
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Mais um blog para ciêntistas de dados!
 
 # --- Navigation bar options --- #
 
@@ -44,16 +44,16 @@ title-img: "/img/logo.png"
 author:
   name: Robert Carlos
   email: "robert.n.roll@gmail.com"
-  facebook: "https://www.facebook.com/robert.n.roll"  # eg. daattali
-  github: yourname    # eg. daattali
+  facebook: "robert.n.roll"  # eg. daattali
+  github: "datalivre"    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: "robert-carlos"  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
+  instagram: "robbie_robert" # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
@@ -63,15 +63,15 @@ footer-links-active:
   rss: true
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -80,12 +80,12 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://datalivre.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://robertcg.wordpress.com/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
