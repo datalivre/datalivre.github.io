@@ -17,6 +17,7 @@ O site de notícias MetalSucks, famoso por suas entrevistas, blogs de usuários 
 Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas de Heavy Metal da história, nisso, será necessário fazer download das letras de todas as músicas de cada uma banda e como resultado final produziremos uma nuvem de palavras para cada um.  
 
 **A seguir, as 10 melhores bandas de Heavy Metal da história:**  
+![imagem black sabbath](/img/blacksabbath.jpg)
 - Black Sabbath 
 - Iron Maiden
 - Slayer
