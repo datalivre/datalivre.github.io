@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/Robert_Carlos.jpeg
+image: /img/KNIME-logo-300x257.png
 tags: [random, exciting-stuff]
 ---
 
