@@ -44,7 +44,7 @@ Os exemplos nesta seção utilizam o software Knime Analytics que pode ser baixa
 ## Obtendo links para letras musicais    
 ![obtendo links](/img/1_OBTENDOLINKS.png)
 
-A começar, vamos inserir o node **Table Creator** que nos permite a criação manual de uma tabela de dados. No campo **Filter contents** do painel **Node Repository** digite Table Creator, o nó deve surgir logo após a evocação, arraste-o para o editor de fluxo de trabalho. Agora, dê um clique duplo no node para abrir sua janela de dialogo, copie e cole todos os links a seguir na primeira coluna:
+A começar, vamos inserir o node **Table Creator** que nos permite a criação manual de uma tabela de dados. No campo **Filter contents** do painel **Node Repository** digite Table Creator, o nó deve surgir logo após a evocação, arraste-o para o editor de fluxo de trabalho. Após isso, dê um clique duplo no node para abrir sua janela de dialogo, copie e cole todos os dez links a seguir na primeira coluna:
 
 https://www.letras.mus.br/black-sabbath/  
 https://www.letras.mus.br/iron-maiden/  
@@ -57,12 +57,14 @@ https://www.letras.mus.br/death/
 https://www.letras.mus.br/motorhead/  
 https://www.letras.mus.br/carcass/  
 
-O resultado deve ser igual ao da imagem que segue. Para executar o Table Creator, segure a tecla CTRL e clique no botão OK.
+O resultado deve ser igual ao da imagem que segue. Para executar o Table Creator, segure a tecla CTRL e clique no botão OK - Execute.  
 ![janela de diálogo](/img/2-dialogo.png)
-
-
-
+    
+     
+   
+     
+     
 # Referências:  
-* http://www.metalsucks.net/2014/11/14/25-best-metal-bands-time-real-1-black-sabbath/  
-* https://pt.wikipedia.org/wiki/Nuvem_de_tags  
-* https://www.knime.org/  
+* [METALSUCKS](http://www.metalsucks.net/2014/11/14/25-best-metal-bands-time-real-1-black-sabbath/)  
+* [WIKIPEDIA](https://pt.wikipedia.org/wiki/Nuvem_de_tags)  
+* [KNIME](https://www.knime.org/)  
