@@ -112,8 +112,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #303030;
-  background: #b3b3b3ff;
+  color: #ebebeb;
 }
 
 .navbar-custom .navbar-brand:hover,
