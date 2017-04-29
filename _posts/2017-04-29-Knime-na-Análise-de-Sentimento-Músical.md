@@ -5,18 +5,18 @@ image: /img/KNIME-logo.png
 tags: [knime, analytics, rock n roll,]
 subtitle: Análise sentimental das melhores bandas de Hevy Metal de todos os tempos
 ---
-Este artigo trata da utilização da ferramenta de análise e mineração de dados `Knime Analytics` para capturar todas as letras de músicas das 10 maiores bandas de Heavy Metal de todos os tempos a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda. 
-## 
+Este artigo trata da utilização da ferramenta de análise e mineração de dados **Knime Analytics** para capturar todas as letras de músicas das 10 maiores bandas de Heavy Metal de todos os tempos a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda.  
+
 | Nesta página |
-| :------ |
-| Visão geral    | 
-| Pré requisitos     | 
+| :------      |
+| Visão geral  | 
+| Pré requisitos| 
 
 ## Visão geral  
 O site de notícias MetalSucks, famoso por suas entrevistas, blogs de usuários e informações sobre lançamentos, já listou os melhores álbuns de metal do século, os melhores guitarristas e bateristas de metal moderno e até mesmo as barbas mais “Metal” da música pesada, mas desta vez eles decidiram ir além, em novembro de 2014, consultaram mais de uma centena de músicos, críticos, artistas, publicitários, jornalistas e membros reverenciados da industrial fonográfica para descobrir quais as 25 bandas de Heavy Metal que melhor representam o Heavy Metal na história. Como resultado temos que a banda trevosa Black Sabbath em primeiro lugar seguida de Iron Mainden. Em décimo terceiro lugar temos a banda belo-horizontina Sepultura enchendo de orgulho o povo Brasileiro e principalmente de Minas. A lista completa você pode acessar [neste link](http://www.metalsucks.net/2014/11/14/25-best-metal-bands-time-real-1-black-sabbath/).  
 Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas de Heavy Metal da história, nisso, será necessário fazer download das letras de todas as músicas de cada uma banda e como resultado final produziremos uma nuvem de palavras para cada um.  
 
-**A seguir, as 10 melhores bandas de Heavy Metal da história:**
+**A seguir, as 10 melhores bandas de Heavy Metal da história:**  
 - Black Sabbath 
 - Iron Maiden
 - Slayer
