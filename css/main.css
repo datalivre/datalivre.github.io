@@ -129,7 +129,7 @@ img {
   transition: padding .5s ease-in-out;  
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 40px;
+  height: 50px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -138,7 +138,7 @@ img {
   padding-top: 5px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 30px;
+  height: 40px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -161,7 +161,7 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 50px;
+  width: 40px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
