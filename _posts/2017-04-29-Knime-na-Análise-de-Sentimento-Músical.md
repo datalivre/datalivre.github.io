@@ -5,7 +5,7 @@ image: /img/KNIME-logo.png
 tags: [knime, analytics, rock n roll,]
 subtitle: Análise sentimental das melhores bandas de Hevy Metal de todos os tempos
 ---
-Este artigo trata da utilização da ferramenta Knime Analytics para capturar todas as letras de músicas de 10 bandas de Heavy Metal a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda.    
+Este artigo trata da utilização da ferramenta de análise e mineração de dados `Knime Analytics` para capturar todas as letras de músicas das 10 maiores bandas de Heavy Metal de todos os tempos a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda. 
 ## 
 | Nesta página |
 | :------ |
