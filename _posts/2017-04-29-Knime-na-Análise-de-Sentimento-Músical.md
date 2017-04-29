@@ -10,6 +10,7 @@ Este artigo trata da utilização da ferramenta de análise e mineração de dad
 | Nesta página |
 | :------      |
 | Visão geral  | 
+| Knime        |
 | Pré requisitos| 
 
 ## Visão geral  
@@ -30,7 +31,12 @@ Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas
 09. Motorhead 
 10. Carcass 
 
+## Knime  
+![knime analytics workflow](https://www.knime.org/files/images/products/AnalyticsPlatform/end-to-end_analytics_workflow.png)  
+
 Para se chegar ao resultado esperado, vamos utilizar o software de mineração Knime que é a principal solução aberta projetada para descobrir o potencial oculto de dados gerando novas ideias e prevendo o futuro. O Knime foi construído há mais de uma década para acessar dados rapidamente de forma intuitiva a fim de ajudar sua próspera comunidade de cientistas de dados espalhados em mais de 60 países e organizações a impulsionar a inovação. 
 
 ## Pré requisitos
 Os exemplos nesta seção utilizam o software Knime Analytics que pode ser baixado a partir [deste link](https://www.knime.org/downloads/overview).
+
+
