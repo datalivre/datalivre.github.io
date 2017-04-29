@@ -113,6 +113,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #303030;
+  background: #b3b3b3ff;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -120,7 +121,6 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
-  background: white;
 }
 
 .navbar-custom .navbar-brand-logo {
