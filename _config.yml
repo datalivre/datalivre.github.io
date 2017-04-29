@@ -24,9 +24,9 @@ description: Mais um blog para ciêntistas de dados!
 navbar-links:
   About Me: "Sobre"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Wordpress: "https://robertcg.wordpress.com/"
+    - Linkedin: "https://www.linkedin.com/in/robert-carlos/"
+    - Facebook: "https://www.facebook.com/robert.n.roll"
   Author's home: "https://github.com/datalivre"
 
 # Image to show in the navigation bar - image must be a square (width = height)
