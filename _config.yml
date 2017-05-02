@@ -21,30 +21,13 @@ description: Mais um blog para ciêntistas de dados!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-#navbar-links:
-#  Github: "https://github.com/datalivre"
-#  Sobre: "aboutme"
-#    - Facebook: "https://www.facebook.com/robert.n.roll"
-#    - Linkedin: "https://www.linkedin.com/in/robert-carlos/"
-#    - Wordpress: "https://robertcg.wordpress.com/"
-#Recursos:
-
-# List of links in the navigation bar
-#navbar-links:
-#  Página Inicial: ""
-#  Conheça o Prof.: "aboutme"
-#  Publicações: "publicacoes"
-#nav-search: "search"
-
-#############
-
 navbar-links:
-  Sobre: "aboutme"
-  Recursos:
+  About Me: "aboutme"
+  Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-Casa do autor: "http://deanattali.com"
+Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -106,7 +89,7 @@ url-pretty: "https://robertcg.wordpress.com/"  # eg. "deanattali.com/beautiful-j
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "@robertcorleone"
+disqus: "robertcorleone"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
