@@ -33,7 +33,7 @@ Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas
 
 **A seguir, as 10 melhores bandas de Heavy Metal da história:**  
 <center>
-<img src = "/img/blacksabbath.jpg" 	alt="Integrantes Black Sabbath" width = "600">
+<img src = " datalivre.github.io/img/blacksabbath.jpg" 	alt="Integrantes Black Sabbath" width = "600">
 </center>
 01. Black Sabbath 
 02. Iron Maiden
