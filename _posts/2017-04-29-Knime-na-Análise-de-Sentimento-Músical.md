@@ -64,7 +64,9 @@ Os exemplos nesta seção utilizam o software Knime Analytics que pode ser baixa
 ### Obtendo links para letras musicais 
 ---
 <center>
-![obtendo links](/img/1_OBTENDOLINKS.png)
+<img src="/img/1_OBTENDOLINKS.png" alt="Obtendo links">
+<br>
+<em>Obtendo links.</em>
 </center>
 
 A começar, vamos inserir o node **Table Creator** que nos permite a criação manual de uma tabela de dados. No campo **Filter contents** do painel **Node Repository** digite Table Creator, o nó deve surgir logo após a evocação, arraste-o para o editor de fluxo de trabalho. Após isso, dê um clique duplo no node para abrir sua janela de dialogo, copie e cole todos os dez links a seguir na primeira coluna:
