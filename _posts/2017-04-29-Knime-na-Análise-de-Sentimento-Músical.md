@@ -51,7 +51,9 @@ Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas
 
 ### Knime 
 ---
-![knime analytics workflow](https://www.knime.org/files/images/products/AnalyticsPlatform/end-to-end_analytics_workflow.png)  
+<center>
+<img src="https://www.knime.org/files/images/products/AnalyticsPlatform/end-to-end_analytics_workflow.png" alt="knime Workflow">
+</center>
 
 Para se chegar ao resultado esperado, vamos utilizar o software de mineração Knime que é a principal solução aberta projetada para descobrir o potencial oculto de dados gerando novas ideias e prevendo o futuro. O Knime foi construído há mais de uma década para acessar dados rapidamente de forma intuitiva a fim de ajudar sua próspera comunidade de cientistas de dados espalhados em mais de 60 países e organizações a impulsionar a inovação. 
 
