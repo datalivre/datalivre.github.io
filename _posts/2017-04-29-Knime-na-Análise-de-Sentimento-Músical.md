@@ -70,7 +70,7 @@ Os exemplos nesta seção utilizam o software Knime Analytics que pode ser baixa
 </center>
 
 A começar, vamos inserir o node **Table Creator** que nos permite a criação manual de uma tabela de dados. No campo **Filter contents** do painel **Node Repository** digite Table Creator, o nó deve surgir logo após a evocação, arraste-o para o editor de fluxo de trabalho. Após isso, dê um clique duplo no node para abrir sua janela de dialogo, copie e cole todos os dez links a seguir na primeira coluna:
-<center>
+
 https://www.letras.mus.br/black-sabbath/  
 https://www.letras.mus.br/iron-maiden/  
 https://www.letras.mus.br/slayer/  
@@ -81,7 +81,6 @@ https://www.letras.mus.br/megadeth/
 https://www.letras.mus.br/death/  
 https://www.letras.mus.br/motorhead/  
 https://www.letras.mus.br/carcass/  
-</center>
 
 O resultado deve ser igual ao da imagem que segue. Para executar o Table Creator, segure a tecla CTRL e clique no botão OK - Execute.  
 <center>
