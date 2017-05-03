@@ -2,8 +2,13 @@
 layout: post
 title: Knime na Análise de Sentimento Músical
 image: /img/KNIME-logo.png
-tags: [knime, analytics, rock n roll, análise de sentimento]
+tags:
+  - knime
+  - analytics
+  - rock n roll
+  - análise de sentimento
 subtitle: Análise sentimental das melhores bandas de Hevy Metal de todos os tempos
+published: true
 ---
 Este artigo trata da utilização da ferramenta de análise e mineração de dados **Knime Analytics** para capturar todas as letras de músicas das 10 maiores bandas de Heavy Metal de todos os tempos a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda.  
 
@@ -27,8 +32,9 @@ Em seguida surge Iron Maiden e logo depois Slayer. E não menos importante, em d
 Contudo, vamos gerar uma análise sentimental apenas para as dez melhores bandas de Heavy Metal da história, nisso, será necessário fazer download das letras de todas as músicas de cada uma banda e como resultado final produziremos uma nuvem de palavras para cada um.  
 
 **A seguir, as 10 melhores bandas de Heavy Metal da história:**  
-
+<center>
 ![imagem black sabbath](/img/blacksabbath.jpg)
+</center>
 01. Black Sabbath 
 02. Iron Maiden
 03. Slayer
@@ -52,7 +58,7 @@ Os exemplos nesta seção utilizam o software Knime Analytics que pode ser baixa
 
 ### Obtendo links para letras musicais 
 ---
-![obtendo links](/img/1_OBTENDOLINKS.png)
+<center>![obtendo links](/img/1_OBTENDOLINKS.png)</center>
 
 A começar, vamos inserir o node **Table Creator** que nos permite a criação manual de uma tabela de dados. No campo **Filter contents** do painel **Node Repository** digite Table Creator, o nó deve surgir logo após a evocação, arraste-o para o editor de fluxo de trabalho. Após isso, dê um clique duplo no node para abrir sua janela de dialogo, copie e cole todos os dez links a seguir na primeira coluna:
 
