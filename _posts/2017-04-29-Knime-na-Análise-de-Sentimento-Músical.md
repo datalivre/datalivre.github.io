@@ -11,14 +11,14 @@ subtitle: Análise sentimental das melhores bandas de Hevy Metal de todos os tem
 published: true
 ---
 Este artigo trata da utilização da ferramenta de análise e mineração de dados **Knime Analytics** para capturar todas as letras de músicas das 10 maiores bandas de Heavy Metal de todos os tempos a partir de um famoso portal de letras para, enfim, analisar o sentimento de cada banda.  
-<center>
+
 | Nesta página |
 | :------      |
 | Visão geral  | 
 | Knime        |
 | Pré requisitos | 
 | Obtendo links para letras musicais |
-</center>
+
 ### Visão Geral
 ---
 O site de notícias **MetalSucks**, famoso por suas entrevistas e informações sobre lançamentos, já listou quase tudo no mundo da música Heavy Metal, desde os melhores álbuns do século até mesmo as barbas mais “Metal” da música pesada, mas desta vez eles decidiram ir além, em outubro de 2014 consultaram mais de uma centena de pessoas incluindo músicos, críticos, artistas, publicitários, jornalistas e membros reverenciados da industrial fonográfica para descobrir quais as 25 bandas de Heavy Metal que melhor representam o Heavy Metal na história.
