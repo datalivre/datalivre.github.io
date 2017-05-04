@@ -5,13 +5,13 @@ image: /img/hello_world.jpeg
 subtitle: Por que você deve conhecer este nerd
 ---
 
-Meu nome é Robert Carlos
+Meu nome é Robert Carlos:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Futuro cientista de dados
+- Funcionário Público
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[LINKEDIN](https://www.linkedin.com/in/robert-carlos/)
+[FACEBOOK](https://www.facebook.com/robert.n.roll)
