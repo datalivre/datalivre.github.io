@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-image: /img/KNIME-logo.png
-tags: Os Filthy 15
+title: Os Filthy 15 
+image: /img/Os-Filthy-15/STOPROCK.PNG
+tags: 
   - knime
   - PMRC
   - analytics
