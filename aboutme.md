@@ -13,5 +13,5 @@ Meu nome é Robert Carlos:
 
 ### my history
 
-[LINKEDIN](https://www.linkedin.com/in/robert-carlos/)
-[FACEBOOK](https://www.facebook.com/robert.n.roll)
+* [LINKEDIN](https://www.linkedin.com/in/robert-carlos/)
+* [FACEBOOK](https://www.facebook.com/robert.n.roll)
