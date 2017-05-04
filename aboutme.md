@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-image: /img/hello_world.jpeg
+image: /img/Robert_Carlos.jpeg
 subtitle: Por que você deve conhecer este nerd
 ---
 
