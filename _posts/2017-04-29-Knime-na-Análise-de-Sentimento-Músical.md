@@ -99,7 +99,9 @@ O resultado deve ser igual ao da imagem que segue. Para executar o Table Creator
 Em seguida, volte ao campo **Filter contents** do painel **Node Repository** e digite HttpRetriever e arraste-o para o editor de fluxo de trabalho.
 > O **HttpRetriever** nos permite executar diferentes métodos HTTP, como GET, POST, HEAD, PUT e DELETE para transferir conteúdo, que deve ser fornecido como dados binários ou string. Ele lida com cookies e permite especificar cabeçalhos HTTP arbitrários.
 
+# EM CONSTRUÇÃO
 
+     
      
      
 ## Referências:
