@@ -24,11 +24,6 @@ Este artigo trata da utilização da ferramenta de análise e mineração de dad
 
 ### Visão Geral
 ---
-Criado no final da década de 60 nos EUA e Reino Unido, o Heavy Metal é um gênero ramificado do Rock ‘n’ Roll que geralmente possui letras soturnas que descrevem a revolta, a ira, ou mesmo traumas pessoais, assim como a guerra e o holocausto, o ocultismo e o consumo de drogas ilícitas.
-
-Graças a toda esta bagagem temática, desde a sua concepção até os dias de hoje, o Heavy Metal é alvo de duras críticas e protestos, mas o seu principal algoz foi a PMRC. Surgida em 1985, a Parents Music Resource Center, era um comitê de pais formado por quatro esposas de notáveis políticos de Washington, que objetivavam controlar o acesso de crianças à músicas que supostamente estimulam o uso de drogas, o satanismo, a violência ou que simplesmente possuam alguma conotação sexual.
-
-Resumo da obra: o desafeto entre a PMRC e as gravadoras que defendiam os interesses das bandas de Heavy Metal foi parar num tribunal em uma audiência denominada porn-rock. De um lado as donas de casa ao lado do senador Al Gore, do outro...
 O site de notícias **MetalSucks**, famoso por suas entrevistas e informações sobre lançamentos, já listou quase tudo no mundo da música Heavy Metal, desde os melhores álbuns do século até mesmo as barbas mais “Metal” da música pesada, mas desta vez eles decidiram ir além, em outubro de 2014 consultaram mais de uma centena de pessoas incluindo músicos, críticos, artistas, publicitários, jornalistas e membros reverenciados da industrial fonográfica para descobrir quais as 25 bandas de Heavy Metal que melhor representam o Heavy Metal na história.
 
 A disputa foi acirrada e somente após um mês de muito trabalho obteve-se o resultado final consolidando no ponto mais alto deste palco a banda trevosa Black Sabbath.
